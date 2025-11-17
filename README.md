@@ -1,7 +1,5 @@
 <!-- Banner / Header -->
-<p align="center">
-  <img src="https://i.imgur.com/UifxFjF.png" width="100%" alt="Banner"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Emirhan Akkuş</h1>
 <h3 align="center">Full-Stack Developer | Java Enthusiast | Django & React Learner</h3>
