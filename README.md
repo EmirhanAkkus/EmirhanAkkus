@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Emirhan Akkuş</h1>
-<h3 align="center">Full-Stack Developer | Java Enthusiast | Django & React Learner</h3>
+<h3 align="center">Full-Stack Developer| Django & React Learner</h3>
 
 ---
 
