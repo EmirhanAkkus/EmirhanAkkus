@@ -11,7 +11,7 @@
 - 🌱 I’m learning **React**, while improving my knowledge in **HTML, CSS, and JavaScript**.  
 - 🐍 I have hands-on experience building web applications using **Python's Django framework**.  
 - 🤝 I’m looking to collaborate on **open-source projects** and **web development** tasks.  
-- 📫 Reach me via:  
+-  Reach me via:  
   **LinkedIn:** https://www.linkedin.com/in/emirhan-akku%C5%9F-a45712249/
 
 ---
